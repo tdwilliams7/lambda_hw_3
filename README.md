@@ -3,16 +3,16 @@
 ## Instructions
 ---
 1. Feynman Writing Prompts - Write out explanations of the following concepts like you are explaining it to a 12 year old.  Doing this will help you quickly discover any holes in your understanding.  Ask your questions on Slack.
-		
-	* Objects
-	* Properties
-	* Methods
-	* for in loop
-	* Dot notation vs bracket notation
+
+	* Objects - store information with Keys and related values.
+	* Properties - the keys inside of objects
+	* Methods - functions called in objects
+	* for in loop - ways to loop through objects to update or find key values.
+	* Dot notation vs bracket notation - dot notation is the preffered method access the object.key. Bracket is fine too but you must quote the key. ["key"]
 
 
 2. Fork and clone this repo.  When you need to commit use the following commands.
-		
+
 	* `git status`
 	* `git add --all`
 	* `git status`
